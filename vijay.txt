@@ -1,6 +1,11 @@
 wdsfdfeeadfqaagafzfg3aw
 qwte
+<<<<<<< HEAD
 dtwazstgda4zert
 asgewr5hsehsn
 aeh5dxhsr5ex
+=======
+dtwazstgda4zertercgfth
+aehsrexta
+>>>>>>> 3cf4e8a030e28279e8f59d91c72f3fc70f12aa4d
 
